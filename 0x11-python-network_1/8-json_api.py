@@ -10,7 +10,7 @@ from sys import argv
 
 if __name__ == '__main__':
     query = {'q': '' if len(argv) else argv[1] }
-    req = requests.post('http://localhost/MYWEB/', data=query)
+    req = requests.post('http://0.0.0.0:5000/search_user', data=query)
     try:
         dct = req.json()
         id = dct.get('id')

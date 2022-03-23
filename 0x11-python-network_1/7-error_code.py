@@ -13,5 +13,5 @@ if __name__ == '__main__':
     try:
         if req.status_code < 400:
             print(req.text)
-    except req.status_code as err_code:
-        print(f'Error Code: {err_code}')
+    except:
+        print(f'Error Code: {req.status_code}')
