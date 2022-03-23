@@ -7,11 +7,10 @@ uses the GitHub API to display your id
 
 import requests
 from sys import argv
+from requests.auth import HTTPBasicAuth
 
 if __name__ == '__main__':
-    req = requests.get(f'https://api.github.com/repos/{argv[1]}/{argv[2]}'
-                       f'/commits')
+    auth = HTTPBasicAuth(argv[1], argv[2])
+    req = requests.get('https://api.github.com/users', auth=auth)
     data = req.json()
-    for i in range(10):
-        print(f'{data[i].get("name")}', end=':  ')
-        print(f'{data[i].get("commit").get("author").get("name")}')
+    print(data.get('id'))

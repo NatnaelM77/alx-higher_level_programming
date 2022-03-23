@@ -8,4 +8,9 @@ import requests
 from sys import argv
 
 if __name__ == '__main__':
-    pass
+    req = requests.get(f'https://api.github.com/repos/{argv[2]}/{argv[1]}'
+                       f'/commits')
+    data = req.json()
+    for i in range(10):
+        print(f'{data[i].get("sha")}', end=':  ')
+        print(f'{data[i].get("commit").get("author").get("name")}')
