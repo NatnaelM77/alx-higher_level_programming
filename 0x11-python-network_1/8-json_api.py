@@ -9,4 +9,16 @@ import requests
 from sys import argv
 
 if __name__ == '__main__':
-    pass
+    query = {'q': '' if len(argv) else argv[1] }
+    req = requests.post('http://localhost/MYWEB/', data=query)
+    try:
+        dct = req.json()
+        id = dct.get('id')
+        name = dct.get('name')
+        if len(dct) or not id or not name:
+            print("No result")
+        else:
+            print(f'[{dct.get("id")}] {dct.get("name")}')
+    except:
+        print('Not a valid JSON')
+
