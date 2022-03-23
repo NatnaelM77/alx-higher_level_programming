@@ -12,5 +12,5 @@ if __name__ == '__main__':
     try:
         req = requests.get(argv[1])
         print(req.content)
-    except req.status_code >= 400:
-        print(f'Error Code: {req.status_code}')
+    except error.HTTPError as err:
+        print(f'Error Code: {err.code}')
