@@ -9,5 +9,6 @@ from sys import argv
 import urllib.request
 
 if __name__ == '__main__':
-    with urllib.request.urlopen(argv[1]) as response:
+    url = urllib.request.Request(argv[1])
+    with urllib.request.urlopen(url) as response:
         print(response.get('X-Request-Id'))
