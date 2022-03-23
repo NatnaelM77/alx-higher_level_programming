@@ -1,4 +1,4 @@
-#!/bin/usr/python3
+#!/usr/bin/python3
 
 '''
 takes in a URL, sends a request to the URL and displays
