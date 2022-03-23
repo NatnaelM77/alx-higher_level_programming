@@ -9,13 +9,13 @@ import requests
 from sys import argv
 
 if __name__ == '__main__':
-    query = {'q': '' if len(argv) else argv[1] }
+    query = {'q': '' if len(argv) == 0 else argv[1] }
     req = requests.post('http://0.0.0.0:5000/search_user', data=query)
     try:
         dct = req.json()
         id = dct.get('id')
         name = dct.get('name')
-        if len(dct) or not id or not name:
+        if len(dct) == 0 or not id or not name:
             print("No result")
         else:
             print(f'[{dct.get("id")}] {dct.get("name")}')
