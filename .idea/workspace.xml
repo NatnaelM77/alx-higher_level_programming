@@ -16,7 +16,17 @@
     <SUITE FILE_PATH="coverage/alx_higher_level_programming$Main.coverage" NAME="Main Coverage Results" MODIFIED="1649004857953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x11-python-network_1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2-post_email.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0x11-python-network_1/2-post_email.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -199,13 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649004440284</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update 2-post_email.py">
+      <created>1649004908548</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649004908548</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.3078125" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3078125" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32956153" />
@@ -214,7 +232,7 @@
       <window_info anchor="right" auto_hide="true" id="Run" order="5" weight="0.44375" />
       <window_info anchor="right" id="SciView" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" x="0" y="23" width="1280" height="777" id="Terminal" order="12" type="WINDOWED" visible="true" weight="0.31683168" />
+      <window_info anchor="bottom" x="0" y="23" width="1280" height="777" id="Terminal" order="12" type="WINDOWED" visible="true" weight="0.31683168" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
@@ -273,9 +291,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fix Errors" />
-    <MESSAGE value="Update 2-post_email.py" />
     <MESSAGE value="Update via upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update via upload" />
+    <MESSAGE value="Update 2-post_email.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2-post_email.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -471,17 +489,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/2-post_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/2-post_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
