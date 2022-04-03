@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0x11-python-network_1/2-post_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x11-python-network_1/2-post_email.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +19,8 @@
       <file leaf-file-name="2-post_email.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0x11-python-network_1/2-post_email.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-              <folding>
-                <element signature="e#188#208#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -247,7 +243,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649005661117</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update via upload">
+      <created>1649005828091</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1649005828091</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update via upload">
+      <created>1649005915370</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1649005915370</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -322,9 +332,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fix Errors" />
-    <MESSAGE value="Update via upload" />
     <MESSAGE value="Update 2-post_email.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2-post_email.py" />
+    <MESSAGE value="Update via upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update via upload" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -529,11 +539,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/2-post_email.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-          <folding>
-            <element signature="e#188#208#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
