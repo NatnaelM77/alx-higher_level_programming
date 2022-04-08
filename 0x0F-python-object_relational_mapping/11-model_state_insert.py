@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
 """
-prints the State object with the name passed as argument
-from the database hbtn_0e_6_usa
+adds the State object “Louisiana” to the database hbtn_0e_6_usa
 """
 
 from sys import argv
@@ -16,7 +15,11 @@ if __name__ == '__main__':
     Session = sessionmaker(bind=engine)
     session = Session()
 
-    query = session.query(State).filter(State.name == argv[4]).first()
+    state = State(name='Louisiana')
+    session.add(state)
+    session.commit()
+
+    query = session.query(State).filter(State.name == 'Louisiana').first()
     if query is None:
         print('Not found')
     else:
