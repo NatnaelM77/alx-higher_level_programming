@@ -12,5 +12,5 @@ if __name__ == '__main__':
                        f'/commits')
     data = req.json()
     for i in range(10):
-        print(f'{data[i].get("sha")}', end=': ')
-        print(f'{data[i].get("commit").get("author").get("name")}')
+        print(f"{data[i].get('sha')}: \
+{data[i].get('commit').get('author').get('name')}")
