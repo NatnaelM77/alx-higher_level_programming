@@ -19,6 +19,6 @@ if __name__ == '__main__':
 
     query = session.query(State).filter(State.name == argv[4]).first()
     if query is not None:
-        print(query.id)
+        print(str(query.id))
     else:
         print('Not found')
