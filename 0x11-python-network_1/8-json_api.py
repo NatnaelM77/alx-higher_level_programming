@@ -9,7 +9,7 @@ import requests
 from sys import argv
 
 if __name__ == '__main__':
-    query = {'q': '' if len(argv) == 0 else argv[1] }
+    query = {'q': '' if len(argv) == 1 else argv[1]}
     req = requests.post('http://0.0.0.0:5000/search_user', data=query)
     try:
         dct = req.json()
@@ -21,4 +21,3 @@ if __name__ == '__main__':
             print(f'[{dct.get("id")}] {dct.get("name")}')
     except:
         print('Not a valid JSON')
-
