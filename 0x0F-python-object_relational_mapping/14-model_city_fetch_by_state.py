@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-"""Print all City objs from db 'hbtn_0e_14_usa'
+"""
+Print all City objs from db 'hbtn_0e_14_usa'
 Sort in ascending order by cities.id
 Display results as "<state name>: (<city id>) <city name>"
 Script should take 3 args: username, pw, and db name
@@ -16,7 +17,6 @@ from sqlalchemy.orm import sessionmaker
 if __name__ == '__main__':
     engine = create_engine('mysql+mysqldb://{}:{}@localhost/{}'
                            .format(argv[1], argv[2], argv[3]))
-    Base.metadata.create_all(engine)
     Session = sessionmaker(bind=engine)
     session = Session()
 
