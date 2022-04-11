@@ -1,12 +1,6 @@
 #!/usr/bin/python3
 
-"""
-Print all City objs from db 'hbtn_0e_14_usa'
-Sort in ascending order by cities.id
-Display results as "<state name>: (<city id>) <city name>"
-Script should take 3 args: username, pw, and db name
-Must use SQLAlchemy
-"""
+""" Print all City objs from db 'hbtn_0e_14_usa' """
 
 from sys import argv
 from model_city import Base, City
