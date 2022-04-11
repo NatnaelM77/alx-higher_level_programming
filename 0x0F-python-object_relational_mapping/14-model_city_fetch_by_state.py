@@ -4,6 +4,7 @@
 adds the State object “Louisiana” to the database hbtn_0e_6_usa
 """
 
+import sqlalchemy
 from sys import argv
 from model_city import Base, City
 from model_state import Base, State

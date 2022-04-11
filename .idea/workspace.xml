@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/12-model_state_update_id_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/12-model_state_update_id_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/13-model_state_delete_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/13-model_state_delete_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,20 +16,7 @@
     <SUITE FILE_PATH="coverage/alx_higher_level_programming$Main.coverage" NAME="Main Coverage Results" MODIFIED="1649004857953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x11-python-network_1" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="14-model_city_fetch_by_state.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="e#93#113#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,9 +55,9 @@
         <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/10-model_state_my_get.py" />
         <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/11-model_state_insert.py" />
         <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/model_city.py" />
-        <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py" />
         <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/12-model_state_update_id_2.py" />
         <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/13-model_state_delete_a.py" />
+        <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py" />
       </list>
     </option>
   </component>
@@ -389,12 +375,18 @@
       <option name="project" value="LOCAL" />
       <updated>1649452733507</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="0x0F-python-object_relational_mapping">
+      <created>1649664052749</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1649664052749</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3078125" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -711,16 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0x0F-python-object_relational_mapping/model_city.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#111#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x0F-python-object_relational_mapping/model_state.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -761,12 +743,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0x0F-python-object_relational_mapping/model_city.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#111#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="e#93#113#0" expanded="true" />
+            <element signature="e#92#109#0" expanded="true" />
           </folding>
         </state>
       </provider>
