@@ -6,7 +6,7 @@ request.get(`https://swapi-api.hbtn.io/api/films/${process.argv[2]}`, function (
 
   const data = JSON.parse(body);
 
-  for (const url of data.characters.reverse()) {
+  for (const url of data.characters) {
     request.get(url, function (err, res, body) {
       if (err) throw err;
       console.log(JSON.parse(body).name);
