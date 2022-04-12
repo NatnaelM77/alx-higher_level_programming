@@ -1,7 +1,7 @@
 #!/usr/bin/node
 
 const request = require('request');
-request.get(`https://swapi-api.hbtn.io/api/films/${ process.argv[2]}`, function (error, response, body) {
+request.get(`https://swapi-api.hbtn.io/api/films/${process.argv[2]}`, function (error, response, body) {
   if (!error) {
     const characters = JSON.parse(body).characters;
     printCharacters(characters, 0);
