@@ -2,7 +2,7 @@
 
 const request = require('request');
 request.get(process.argv[2], function (err, res, body) {
-  let count = 0, end = 20;
+  let count = 0; let end = 20;
   const obj = {};
   if (err) throw err;
 
@@ -12,8 +12,7 @@ request.get(process.argv[2], function (err, res, body) {
       count += 1;
       obj[data[i].userId] = count;
     }
-    if (data[i].id === end)
-    {
+    if (data[i].id === end) {
       count = 0;
       end += 20;
     }
