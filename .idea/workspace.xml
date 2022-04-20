@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="" />
+    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="8-script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/8-script.js">
+      <file leaf-file-name="9-script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/9-script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="61" selection-start-column="61" selection-end-column="61" />
+            <state relative-caret-position="54">
+              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -77,6 +79,7 @@
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/7-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/8-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/9-script.js" />
       </list>
     </option>
   </component>
@@ -169,13 +172,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647995976533</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Update 2-post_email.py">
-      <created>1649003777809</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1649003777809</updated>
     </task>
     <task id="LOCAL-00007" summary="Update via upload">
       <created>1649004072644</created>
@@ -513,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650454828152</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Star Wars movies">
+      <created>1650455237602</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1650455237602</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -592,7 +595,8 @@
     <MESSAGE value="No jQuery - document loaded" />
     <MESSAGE value="List, add, remove" />
     <MESSAGE value="Star wars character" />
-    <option name="LAST_COMMIT_MESSAGE" value="Star wars character" />
+    <MESSAGE value="Star Wars movies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Star Wars movies" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -600,13 +604,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/7-error_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/3-error_code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -903,8 +900,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/8-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="61" selection-start-column="61" selection-end-column="61" />
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/9-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
