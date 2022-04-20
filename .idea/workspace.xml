@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x15-javascript-web_jquery/102-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/102-script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x15-javascript-web_jquery/9-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/9-script.js" afterDir="false" />
-    </list>
+    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +68,8 @@
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/8-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/103-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/9-script.js" />
-        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/102-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js" />
       </list>
     </option>
   </component>
@@ -104,11 +99,6 @@
             <path>
               <item name="alx-higher_level_programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="alx-higher_level_programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alx-higher_level_programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alx-higher_level_programming" type="462c0819:PsiDirectoryNode" />
-              <item name="0x15-javascript-web_jquery" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,34 +157,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647995976533</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Update 2-post_email.py">
-      <created>1649005420715</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1649005420715</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Update 2-post_email.py">
-      <created>1649005661117</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1649005661117</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Update via upload">
-      <created>1649005828091</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1649005828091</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Update via upload">
-      <created>1649005915370</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1649005915370</updated>
     </task>
     <task id="LOCAL-00017" summary="Update via upload">
       <created>1649006075782</created>
@@ -511,7 +473,35 @@
       <option name="project" value="LOCAL" />
       <updated>1650457724978</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Say Hello!">
+      <created>1650457846910</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1650457846911</updated>
+    </task>
+    <task id="LOCAL-00063" summary="List, add, remove">
+      <created>1650457866600</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1650457866646</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Say hello to everybody!">
+      <created>1650457880576</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1650457880576</updated>
+    </task>
+    <task id="LOCAL-00065" summary="List, add, remove">
+      <created>1650457973214</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1650457973214</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -587,13 +577,13 @@
     <MESSAGE value="Change the text" />
     <MESSAGE value="Create README.md" />
     <MESSAGE value="No jQuery - document loaded" />
-    <MESSAGE value="List, add, remove" />
-    <MESSAGE value="Say hello to everybody!" />
     <MESSAGE value="Star wars character" />
     <MESSAGE value="Star Wars movies" />
     <MESSAGE value="And press ENTER" />
     <MESSAGE value="Say Hello!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Say Hello!" />
+    <MESSAGE value="Say hello to everybody!" />
+    <MESSAGE value="List, add, remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="List, add, remove" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -811,13 +801,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/103-script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/0-script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -829,13 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/2-script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -895,6 +871,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/102-script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -902,10 +885,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js">
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/103-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        <state relative-caret-position="567">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/2-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
