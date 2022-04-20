@@ -8,6 +8,6 @@ $('DIV#remove_item').click(function() {
     $('UL.my_list').remove(list_item);
 });
 
-$('DIV#clear_item').click(function() {
+$('DIV#clear_list').click(function() {
     $('UL.my_list').html('');
 });
