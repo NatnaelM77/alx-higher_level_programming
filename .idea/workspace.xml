@@ -14,9 +14,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="100-script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/100-script.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="101-script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -69,6 +73,8 @@
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/6-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/README.md" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/100-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js" />
       </list>
     </option>
   </component>
@@ -161,13 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647995976533</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Fix Errors">
-      <created>1647996284518</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1647996284518</updated>
     </task>
     <task id="LOCAL-00002" summary="Update via upload">
       <created>1647997140735</created>
@@ -505,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650453800339</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="No jQuery - document loaded">
+      <created>1650454064888</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1650454064897</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -581,7 +587,8 @@
     <MESSAGE value="List of elements" />
     <MESSAGE value="Change the text" />
     <MESSAGE value="Create README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create README.md" />
+    <MESSAGE value="No jQuery - document loaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="No jQuery - document loaded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -589,13 +596,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/5-hbtn_header.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/4-hbtn_status.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -824,13 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/0-script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/1-script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -859,13 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/6-script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -886,8 +872,33 @@
     <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/7-script.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/0-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/100-script.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
