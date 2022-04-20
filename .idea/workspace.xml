@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js" afterDir="false" />
-    </list>
+    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,13 +14,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="5-script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-            </state>
-          </provider>
+      <file leaf-file-name="100-script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/100-script.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -73,6 +67,8 @@
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/4-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/6-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/README.md" />
       </list>
     </option>
   </component>
@@ -488,7 +484,28 @@
       <option name="project" value="LOCAL" />
       <updated>1650453543957</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="List of elements">
+      <created>1650453625675</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1650453625675</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Change the text">
+      <created>1650453734425</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1650453734425</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Create README.md">
+      <created>1650453800339</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1650453800339</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -561,7 +578,10 @@
     <MESSAGE value="Click and turn red" />
     <MESSAGE value="Toggle classes" />
     <MESSAGE value="Add `.red` class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add `.red` class" />
+    <MESSAGE value="List of elements" />
+    <MESSAGE value="Change the text" />
+    <MESSAGE value="Create README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -569,34 +589,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/8-json_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/10-my_github.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/100-github_commits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/6-post_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/5-hbtn_header.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -869,10 +861,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/6-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="28" selection-start-column="28" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/7-script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/100-script.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
