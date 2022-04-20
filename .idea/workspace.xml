@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="7-script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/7-script.js">
+      <file leaf-file-name="8-script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/8-script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+              <caret column="61" selection-start-column="61" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -76,6 +76,7 @@
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/100-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/7-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/8-script.js" />
       </list>
     </option>
   </component>
@@ -168,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647995976533</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Update via upload">
-      <created>1648053916768</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1648053916768</updated>
     </task>
     <task id="LOCAL-00006" summary="Update 2-post_email.py">
       <created>1649003777809</created>
@@ -512,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650454459495</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Star wars character">
+      <created>1650454828142</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1650454828152</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -590,7 +591,8 @@
     <MESSAGE value="Create README.md" />
     <MESSAGE value="No jQuery - document loaded" />
     <MESSAGE value="List, add, remove" />
-    <option name="LAST_COMMIT_MESSAGE" value="List, add, remove" />
+    <MESSAGE value="Star wars character" />
+    <option name="LAST_COMMIT_MESSAGE" value="Star wars character" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -598,13 +600,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/4-hbtn_status.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/7-error_code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -901,8 +896,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/7-script.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/8-script.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <caret column="61" selection-start-column="61" selection-end-column="61" />
         </state>
       </provider>
     </entry>
