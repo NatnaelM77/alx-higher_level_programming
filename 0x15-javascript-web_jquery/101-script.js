@@ -5,11 +5,10 @@ $(document).ready(function () {
     });
 
     $('DIV#remove_item').click(function () {
-        let list_item = $('UL.my_list li:last-child');
-        $('UL.my_list').remove(list_item);
+        $('UL.my_listL.my_list li:last-child').remove();
     });
 
     $('DIV#clear_list').click(function () {
-        $('UL.my_list').html('');
+        $('UL.my_list').empty();
     });
 });
