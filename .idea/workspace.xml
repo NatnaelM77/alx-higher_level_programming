@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,13 +16,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="14-model_city_fetch_by_state.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-            </state>
-          </provider>
+      <file leaf-file-name="1-script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/1-script.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -67,6 +63,7 @@
         <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/13-model_state_delete_a.py" />
         <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/model_city.py" />
         <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/0-script.js" />
       </list>
     </option>
   </component>
@@ -90,7 +87,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,12 +97,13 @@
             <path>
               <item name="alx-higher_level_programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="alx-higher_level_programming" type="462c0819:PsiDirectoryNode" />
-              <item name="0x0F-python-object_relational_mapping" type="462c0819:PsiDirectoryNode" />
+              <item name="0x15-javascript-web_jquery" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -426,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649668259930</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="No JQuery">
+      <created>1650452365490</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1650452365490</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -447,38 +451,38 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Messages" order="0" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3078125" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="right" auto_hide="true" id="Run" order="5" weight="0.37734374" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.42291373" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3078125" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="right" auto_hide="true" id="Run" order="5" weight="0.37734374" />
       <window_info anchor="bottom" id="Python Console" order="5" weight="0.32956153" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="bottom" x="0" y="23" width="1280" height="777" id="Terminal" order="12" type="WINDOWED" weight="0.31683168" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.42291373" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="0" />
       <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +498,8 @@
     <MESSAGE value="Update 11-modal_state_insert.py" />
     <MESSAGE value="0x0F-python-object_relational_mapping" />
     <MESSAGE value="Update 14-model_city_fetch_by_state" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 14-model_city_fetch_by_state" />
+    <MESSAGE value="No JQuery" />
+    <option name="LAST_COMMIT_MESSAGE" value="No JQuery" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -502,6 +507,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/7-error_code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -656,13 +668,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/main.py" />
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/0-hbtn_status.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -733,9 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-          <folding>
-            <element signature="e#86#106#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -743,9 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#118#138#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,9 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#111#131#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,9 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
-          <folding>
-            <element signature="e#93#113#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,9 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <element signature="e#112#158#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,9 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#111#169#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -793,18 +781,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#93#113#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/0-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/1-script.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
