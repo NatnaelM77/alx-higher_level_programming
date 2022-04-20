@@ -1,4 +1,4 @@
-let request = $.getJSON('https://swapi-api.hbtn.io/api/films/?format=json',
+let request = $.get('https://swapi-api.hbtn.io/api/films/?format=json',
     function (response) {
         let films = response.results;
         for (film of films)
