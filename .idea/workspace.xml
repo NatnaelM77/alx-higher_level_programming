@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,9 +14,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="1-script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/1-script.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="3-script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -64,6 +66,9 @@
         <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/model_city.py" />
         <option value="$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/0-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/1-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/2-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js" />
       </list>
     </option>
   </component>
@@ -430,7 +435,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650452365490</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="With JQuery">
+      <created>1650452458620</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1650452458620</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Click and turn red">
+      <created>1650452618270</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1650452618270</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -499,7 +518,9 @@
     <MESSAGE value="0x0F-python-object_relational_mapping" />
     <MESSAGE value="Update 14-model_city_fetch_by_state" />
     <MESSAGE value="No JQuery" />
-    <option name="LAST_COMMIT_MESSAGE" value="No JQuery" />
+    <MESSAGE value="With JQuery" />
+    <MESSAGE value="Click and turn red" />
+    <option name="LAST_COMMIT_MESSAGE" value="Click and turn red" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -507,13 +528,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/7-error_code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -799,7 +813,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/1-script.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/2-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
