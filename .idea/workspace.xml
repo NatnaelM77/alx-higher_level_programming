@@ -14,8 +14,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="3-script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js">
+      <file leaf-file-name="4-script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/4-script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
               <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
@@ -69,6 +69,7 @@
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/1-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/2-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/4-script.js" />
       </list>
     </option>
   </component>
@@ -449,7 +450,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650452618270</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Click and turn red">
+      <created>1650452753209</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1650452753209</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Add `.red` class">
+      <created>1650452779712</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1650452779712</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -520,7 +535,8 @@
     <MESSAGE value="No JQuery" />
     <MESSAGE value="With JQuery" />
     <MESSAGE value="Click and turn red" />
-    <option name="LAST_COMMIT_MESSAGE" value="Click and turn red" />
+    <MESSAGE value="Add `.red` class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add `.red` class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -528,13 +544,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/7-error_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/3-error_code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -827,6 +836,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/4-script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
