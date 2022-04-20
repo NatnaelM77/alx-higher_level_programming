@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="" />
+    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="4-script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/4-script.js">
+      <file leaf-file-name="5-script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="54">
+              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -68,8 +70,9 @@
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/0-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/1-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/2-script.js" />
-        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js" />
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/4-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js" />
+        <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js" />
       </list>
     </option>
   </component>
@@ -464,7 +467,28 @@
       <option name="project" value="LOCAL" />
       <updated>1650452779712</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Toggle classes">
+      <created>1650453390399</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1650453390399</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Toggle classes">
+      <created>1650453508546</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1650453508546</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Add `.red` class">
+      <created>1650453543957</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1650453543957</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -535,6 +559,7 @@
     <MESSAGE value="No JQuery" />
     <MESSAGE value="With JQuery" />
     <MESSAGE value="Click and turn red" />
+    <MESSAGE value="Toggle classes" />
     <MESSAGE value="Add `.red` class" />
     <option name="LAST_COMMIT_MESSAGE" value="Add `.red` class" />
   </component>
@@ -544,13 +569,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/3-error_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/8-json_api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -835,17 +853,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js">
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/4-script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/4-script.js">
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="27">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
         </state>
       </provider>
     </entry>
