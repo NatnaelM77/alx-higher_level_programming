@@ -1,14 +1,14 @@
 $(document).ready(function () {
-    $('DIV#add_item').click(function () {
-        let list_item = $('<li>', {text: 'Item'});
-        $('UL.my_list').append(list_item);
-    });
+  $('DIV#add_item').click(function () {
+    const listItem = $('<li>', { text: 'Item' });
+    $('UL.my_list').append(listItem);
+  });
 
-    $('DIV#remove_item').click(function () {
-        $('UL.my_list li:last-child').remove();
-    });
+  $('DIV#remove_item').click(function () {
+    $('UL.my_list li:last-child').remove();
+  });
 
-    $('DIV#clear_list').click(function () {
-        $('UL.my_list').empty();
-    });
+  $('DIV#clear_list').click(function () {
+    $('UL.my_list').empty();
+  });
 });
