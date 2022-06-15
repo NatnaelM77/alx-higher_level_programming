@@ -16,17 +16,7 @@
     <SUITE FILE_PATH="coverage/alx_higher_level_programming$Main.coverage" NAME="Main Coverage Results" MODIFIED="1649004857953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x11-python-network_1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="101-square_matrix_map.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x04-python-more_data_structures/101-square_matrix_map.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -179,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647995976533</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Update via upload">
-      <created>1649006373272</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1649006373272</updated>
     </task>
     <task id="LOCAL-00020" summary="Update via upload">
       <created>1649006491982</created>
@@ -523,12 +506,18 @@
       <option name="project" value="LOCAL" />
       <updated>1655291954006</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Update 101-square_matrix_map.py">
+      <created>1655293895751</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1655293895751</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3078125" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -608,7 +597,8 @@
     <MESSAGE value="List, add, remove" />
     <MESSAGE value="Find a peak" />
     <MESSAGE value="Update 100-weight_average.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 100-weight_average.py" />
+    <MESSAGE value="Update 101-square_matrix_map.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 101-square_matrix_map.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
