@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10-python-network_0/6-peak.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x10-python-network_0/6-peak.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04-python-more_data_structures/101-square_matrix_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-python-more_data_structures/101-square_matrix_map.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,12 +16,12 @@
     <SUITE FILE_PATH="coverage/alx_higher_level_programming$Main.coverage" NAME="Main Coverage Results" MODIFIED="1649004857953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x11-python-network_1" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="6-peak.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x10-python-network_0/6-peak.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="101-square_matrix_map.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0x04-python-more_data_structures/101-square_matrix_map.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="81">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -85,6 +85,8 @@
         <option value="$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js" />
         <option value="$PROJECT_DIR$/0x10-python-network_0/6-peak.txt" />
         <option value="$PROJECT_DIR$/0x10-python-network_0/6-peak.py" />
+        <option value="$PROJECT_DIR$/0x04-python-more_data_structures/100-weight_average.py" />
+        <option value="$PROJECT_DIR$/0x04-python-more_data_structures/101-square_matrix_map.py" />
       </list>
     </option>
   </component>
@@ -119,7 +121,7 @@
             <path>
               <item name="alx-higher_level_programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="alx-higher_level_programming" type="462c0819:PsiDirectoryNode" />
-              <item name="0x10-python-network_0" type="462c0819:PsiDirectoryNode" />
+              <item name="0x04-python-more_data_structures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,133 +131,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/0x11-python-network_1/main.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/0-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/1-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/100-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/101-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/102-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/103-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/2-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/3-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/4-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/6-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/7-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/8-script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/0x15-javascript-web_jquery/9-script.js</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -300,13 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647995976533</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Update via upload">
-      <created>1649006177612</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1649006177612</updated>
     </task>
     <task id="LOCAL-00019" summary="Update via upload">
       <created>1649006373272</created>
@@ -644,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650557021565</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Update 100-weight_average.py">
+      <created>1655291954006</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1655291954006</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -677,26 +556,26 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="1" />
-      <window_info anchor="right" auto_hide="true" id="Run" order="5" weight="0.37734374" />
-      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.42291373" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3078125" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.42291373" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3078125" />
+      <window_info anchor="right" auto_hide="true" id="Run" order="5" weight="0.37734374" />
+      <window_info anchor="bottom" id="Python Console" order="5" weight="0.32956153" />
+      <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="bottom" x="0" y="23" width="1280" height="777" id="Terminal" order="12" type="WINDOWED" weight="0.31683168" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="0" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Messages" order="0" />
-      <window_info anchor="bottom" id="Python Console" order="5" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -728,7 +607,8 @@
     <MESSAGE value="Say hello to everybody!" />
     <MESSAGE value="List, add, remove" />
     <MESSAGE value="Find a peak" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find a peak" />
+    <MESSAGE value="Update 100-weight_average.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 100-weight_average.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -736,20 +616,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/8-json_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0x11-python-network_1/10-my_github.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x11-python-network_1/100-github_commits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1040,7 +906,21 @@
     <entry file="file://$PROJECT_DIR$/0x10-python-network_0/6-peak.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x04-python-more_data_structures/100-weight_average.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x04-python-more_data_structures/101-square_matrix_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
