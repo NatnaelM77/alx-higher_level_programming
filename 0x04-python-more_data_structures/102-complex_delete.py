@@ -10,3 +10,5 @@ def complex_delete(a_dictionary, value):
         for i in keys:
             a_dictionary.pop(i)
         return a_dictionary
+    else:
+        return {}

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="">
+    <list default="true" id="232de25d-d0b4-4378-a5da-024eb9b74f9e" name="Default" comment="Update 102-complex_delete.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0x04-python-more_data_structures/102-complex_delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-python-more_data_structures/102-complex_delete.py" afterDir="false" />
     </list>
@@ -16,17 +16,7 @@
     <SUITE FILE_PATH="coverage/alx_higher_level_programming$Main.coverage" NAME="Main Coverage Results" MODIFIED="1649004857953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x11-python-network_1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="102-complex_delete.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0x04-python-more_data_structures/102-complex_delete.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -180,13 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647995976533</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Update via upload">
-      <created>1649006978266</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1649006978266</updated>
     </task>
     <task id="LOCAL-00023" summary="0x0F-python-object_relational_mapping">
       <created>1649444444807</created>
@@ -524,12 +507,18 @@
       <option name="project" value="LOCAL" />
       <updated>1655294665207</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Update 102-complex_delete.py">
+      <created>1655298100634</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1655298100634</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3078125" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -610,7 +599,8 @@
     <MESSAGE value="Find a peak" />
     <MESSAGE value="Update 100-weight_average.py" />
     <MESSAGE value="Update 101-square_matrix_map.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 101-square_matrix_map.py" />
+    <MESSAGE value="Update 102-complex_delete.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 102-complex_delete.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -905,20 +895,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0x04-python-more_data_structures/101-square_matrix_map.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0x04-python-more_data_structures/103-python.c">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/0x04-python-more_data_structures/102-complex_delete.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x04-python-more_data_structures/101-square_matrix_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
